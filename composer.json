@@ -1,0 +1,7 @@
+{
+    "name": "specsavers/dummy-package",
+    "description": "Package to reserve the specsavers/ vendor name on packagist for future use",
+    "type": "project",
+    "license": "proprietary",
+    "require": {}
+}
